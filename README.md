@@ -159,8 +159,6 @@ Nossa plataforma será o elo que conecta a inteligência coletiva dos cidadãos 
 
 ## CONCLUSÃO
 
-O MVP da plataforma "Vitória Co-Cria" não é apenas uma ferramenta digital, mas o primeiro passo de uma transformação cultural na gestão urbana. 
 
 Ao conectar diretamente cidadãos e gestores através de uma interface simples, potencializada por inteligência artificial básica, criamos um novo modelo de governança urbana que é simultaneamente mais participativo, mais eficiente e mais eficaz.
 
-Nossa proposta é iniciar com foco absoluto, provar o conceito rapidamente e evoluir de forma orgânica baseada em resultados reais.
